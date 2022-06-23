@@ -1,2 +1,4 @@
-hello toi ten la linh
-them dong 1
+hello toi ten la linh 
+toi ten khoa
+them 1 hang
+
